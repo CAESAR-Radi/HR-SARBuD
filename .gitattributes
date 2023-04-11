@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+* annex.largefiles=(largerthan=4GB)
