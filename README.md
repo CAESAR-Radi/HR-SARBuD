@@ -12,6 +12,3 @@ Maybe sometimes, bandwidth of our lfs runs out in current month and you can't do
 
 ## Reference
 Shermeyer, J., Hogan, D., Brown, J., Etten, A.V., Weir, N., Pacifici, F., Hänsch, R., Bastidas, A., Soenen, S., Bacastow, T.M., & Lewis, R. (2020). SpaceNet 6: Multi-Sensor All Weather Mapping Dataset. 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 768-777.
-
-## Contact
-Please contact us if you have any questions: wufan@aircas.ac.cn(Prof.Wu).
