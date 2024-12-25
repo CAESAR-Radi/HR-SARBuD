@@ -4,11 +4,9 @@ HR-SARBuD (High Resolution SAR Building Dataset) is created based on SpaceNet6 f
 There are about 22000 SAR image patches of building area and corresponding 22000 labels (Where 0 means background and 1 means building) in current version. The size of the images were set to 512×512. The dataset is compressed into zip format, with a total of 3 files.
 
 ## Getting Started
-Our dataset is so large that you cannot download it direcly, we start LFS service for it and you need to install lfs for your computer and download the dataset by command like 
-```
-git lfs clone https://github.com/CAESAR-Radi/HR-SARBuD.git
-```
-Maybe sometimes, bandwidth of our lfs runs out in current month and you can't download it, then it will reset in next month.
+Our dataset is so large that you cannot download it direcly, You can download it in two ways.<br>
+You can download the dataset and checkpoint weight from [Google Drive](https://drive.google.com/drive/folders/1C2DZg1Ofz4wlgHqEceYZtxBKkC8FkzxS?usp=drive_link)<br>
+You can download the dataset and checkpoint weight from [Baidu Netdisk](https://pan.baidu.com/s/1bmiebsMatTCP31CKdEQ8gA?pwd=qnhj).
 
 ## Reference
 Shermeyer, J., Hogan, D., Brown, J., Etten, A.V., Weir, N., Pacifici, F., Hänsch, R., Bastidas, A., Soenen, S., Bacastow, T.M., & Lewis, R. (2020). SpaceNet 6: Multi-Sensor All Weather Mapping Dataset. 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 768-777.
